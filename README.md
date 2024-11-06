@@ -16,7 +16,12 @@ A tool for automatically generating customizable full-stack projects. This tool 
 - **React**: Default front-end framework for UI generation (customizable).
 - **MySQL**: Database used for data storage.
 - **Docker**: Containerization for easy deployment and environment consistency.
-- 
+
+## Architecture
+
+![1 drawio](https://github.com/user-attachments/assets/5e4fc536-8342-4c70-87d1-1333228d115e)
+
+
 ## Screenshots
 
 
