@@ -19,5 +19,5 @@ A tool for automatically generating customizable full-stack projects. This tool 
 - 
 ## Screenshots
 
-![Screenshot from 2024-11-06 15-58-14](https://github.com/user-attachments/assets/f574b923-938b-4d15-9a9b-6b2fc41f0670)
+![Screenshot from 2024-11-06 16-04-44](https://github.com/user-attachments/assets/06e4e882-4956-4f53-b79c-66aeeac586a1)
 ![Screenshot from 2024-11-06 15-51-59](https://github.com/user-attachments/assets/4a7e0cbd-0f79-43ab-a34a-5532eeb74063)
